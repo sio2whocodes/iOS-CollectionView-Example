@@ -1,5 +1,5 @@
 # iOS-CollectionView-Example
-ios swift collectionview 사용 예제
+## ios swift collectionview 사용 예제
 
 - collectionView horizontal scroll direction   
 - UILongPressGestureRecognizer, canMoveItemAt, moveItemAt 사용 : 길게 눌러 collection view data 순서 이동
